@@ -283,6 +283,7 @@ body {
 }
 
 .character li img {
+    max-width: 260px;
     max-height: 260px;
     border-radius: 12px 12px 0 0;
 }
